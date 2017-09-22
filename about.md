@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+ECE grad student at BU. Interested in machine learning and deep learning!
 
 ### More Information
 
